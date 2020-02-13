@@ -1,3 +1,9 @@
 .df{
     font-size: 20px;
 }
+body{
+    background-color: #ccc;
+}
+header{
+    color: aquamarine;
+}
